@@ -1,3 +1,8 @@
 This is the demo testFile.txt
 add line
+<<<<<<< HEAD
 lufsdfluluulu 
+=======
+lululuulu 
+kgnen
+>>>>>>> 46be5aa... commit 5
